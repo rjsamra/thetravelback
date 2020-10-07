@@ -1,1 +1,1 @@
-![alt text](screenshots/t1.png "Description goes here")
+![alt text](screenshots/t1.jpg "Description goes here")
